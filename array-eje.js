@@ -1,4 +1,4 @@
-//Ordenar los dos array y sacar un solo array de objecto de edad de menor a mayor
+//Ordenar los dos array y sacar los array de objecto de edad de menor a mayor
 
 
  
